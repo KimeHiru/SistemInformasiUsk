@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(78, 184, 233);
+}
+
+.pramuka {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-radius: 20px;
+    background-image: url(../img/potrait.png);
+    background-position: center;
+    background-size: contain;
+    margin-top: 50px;
+    width: 400px;
+    height: 600px;
+}
+
+.logo img {
+    margin-top: 19px;
+    width: 120px;
+}
+
+.login {
+    margin-top: 100px;
+    margin-right: 10px;
+    opacity: 90%;
+    color: rgb(93, 176, 248);
+    width: 150px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.password {
+    margin-top: 10px;
+}
+
+.masuk {
+    margin-top: 40px;
+}
+
+.masuk a {
+    padding: 15px;
+    background-color: rgb(75, 177, 193);
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+
